@@ -39,7 +39,6 @@ This is a business performance project created using **Microsoft Excel** during 
 ## 🖼 Dashboard Preview
 ![Dashboard 3](https://github.com/user-attachments/assets/2dedac9b-286f-4489-b3eb-005dcab051fc)
 
-![US Car Sales Dashboard 2024](./Dashboard%203.png)
 
 ---
 
